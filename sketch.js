@@ -7,7 +7,3 @@ function draw() {
 	fill(0,0,0)
 	ellipse(mouseX -5, mouseY - 5,10,10);
 }
-html, body {
-  margin: 0;
-  padding: 0;
-}
